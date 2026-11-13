@@ -1,0 +1,12 @@
+{
+  "name": "ablm-oc-exaone",
+  "version": "1.0.0",
+  "description": "OpenCode CLI 설치 확인/설치 → EXAONE(K-EXAONE 2.5) 공급자 추가 → API 키 안전 저장(Windows 환경변수 / macOS 키체인)까지 한 번에. 호출: 에이블램엑사원설치",
+  "author": {
+    "name": "Studio ABLM (에이블램)"
+  },
+  "homepage": "https://github.com/Andrew-Aparche/ablmOCexaone",
+  "repository": "https://github.com/Andrew-Aparche/ablmOCexaone",
+  "license": "MIT",
+  "keywords": ["opencode", "exaone", "lg", "coding-agent", "setup", "korean"]
+}

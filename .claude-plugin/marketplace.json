@@ -1,0 +1,17 @@
+{
+  "name": "ablm",
+  "owner": {
+    "name": "Studio ABLM (에이블램)"
+  },
+  "metadata": {
+    "description": "에이블램(Studio ABLM) 플러그인 모음"
+  },
+  "plugins": [
+    {
+      "name": "ablm-oc-exaone",
+      "source": "./",
+      "description": "OpenCode + EXAONE 자동 설치 플러그인. 호출: 에이블램엑사원설치",
+      "version": "1.0.0"
+    }
+  ]
+}
